@@ -1,0 +1,11 @@
+{
+  "name": "electron-finanse",
+  "version": "1.0.0",
+  "description": "Simple Electron finanse app",
+  "main": "backend/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jakub Czarnowski",
+  "license": "ISC"
+}
